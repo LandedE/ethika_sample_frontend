@@ -22,6 +22,34 @@
   color: #61dafb;
 }
 
+.create_user_form{
+  margin: 0 auto;
+  margin-top: 25px;
+  width: 80%;
+}
+
+.search_for_users{
+  margin: 0 auto;
+  margin-top: 25px;
+  width: 80%;
+}
+
+.search_for_users_container{
+  text-align: right;
+}
+
+.search_for_users_form{
+  display: inline-block;
+}
+
+.form-group{
+  text-align: left;
+}
+
+.hidden{
+  display: none;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
